@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Tuyển</h1>
+<h1>👋 Hello! I'm Tuyển</h1>
 
 ---
 
@@ -34,7 +34,6 @@
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -57,7 +56,6 @@
 
 ## 🚀 Projects I’m Working On
 - 🛒 E-commerce website  
-- 🏥 Hospital management system  
 - 📚 Research topic management system  
 - ☕ Java + Spring Boot learning journey  
 
